@@ -17,7 +17,7 @@
 
 ![Demo](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-brightgreen?style=for-the-badge)
 
-**[🌐 Try the Live App](https://imadh-ai-pdf-gpt-assistant.streamlit.app)**
+**[🌐 Try the Live App](https://pdf-gpt-assistant-czqh3m56fstpb9w5ziujeg.streamlit.app/)**
 
 <br/>
 
